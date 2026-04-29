@@ -1,0 +1,2 @@
+n_rows_sales,n_rows_transactions,date_min,date_max,stores,families,event_days,mean_sales,mean_transactions
+17544,2924,2024-01-01,2025-12-31,4,6,34,163.98,968.58
