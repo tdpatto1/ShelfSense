@@ -1,0 +1,9 @@
+ShelfSense Phase 2 training log
+
+         model_name       target       mae      rmse    wmape  event_day_mae  non_event_day_mae
+   seasonal_naive_7 transactions 74.459821 96.775029 0.073521     145.937500          62.546875
+  xgboost_no_events transactions 53.218002 76.780309 0.052547     144.780045          37.957661
+xgboost_event_aware transactions 39.833791 51.810422 0.039332      69.012100          34.970740
+   seasonal_naive_7        sales 36.641711 56.421859 0.194105      77.954219          29.756293
+  xgboost_no_events        sales 16.488803 22.771402 0.087348      33.761250          13.610062
+xgboost_event_aware        sales 13.964763 18.181724 0.073977      22.747108          12.501039

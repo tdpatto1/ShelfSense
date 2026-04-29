@@ -1,0 +1,8 @@
+Date,Forecast Units,Baseline Units,Uplift %,Order Units,Projected Ending Stock,Drivers
+2026-01-01,306.2,239.3,28.0,48,61.8,new years day
+2026-01-02,281.9,274.7,2.6,264,43.9,baseline demand
+2026-01-03,324.8,329.8,-1.5,336,55.1,promotion
+2026-01-04,274.9,288.4,-4.7,264,44.2,baseline demand
+2026-01-05,214.7,250.9,-14.4,216,45.5,baseline demand
+2026-01-06,214.8,250.9,-14.4,216,46.7,baseline demand
+2026-01-07,231.5,347.4,-33.4,240,55.2,baseline demand
